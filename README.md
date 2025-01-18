@@ -26,8 +26,10 @@ Geckium fork (for tl-PH translation)](https://github.com/emeraldsucksss/Geckium)
 
 
 [
-An joke repository i made when people on Twitter were doing the "run iOS (version) on iPhones that dont support it) thing in late July 2024.](https://github.com/emeraldsucksss/i10on11)
+An joke repository i made when people on Twitter were doing the obviously satire "run iOS (version) on iPhones that dont support it) thing in late July 2024.](https://github.com/emeraldsucksss/i10on11)
 
 
 [
 ROBLOXFansiteKit mirror](https://github.com/emeraldsucksss/ROBLOXFansiteKit)
+
+***
