@@ -8,7 +8,7 @@ Hey, i'm emerald! I'm usually only here reporting issues for projects i'm intere
 
 I'm also part of the [Reunion7](https://reunion7.com/) team, an almost 1:1 accurate project that aims to bring back the look and feel of Windows 7 to Windows 10 LTSC 2021. 
 
-I love computers, gaming and other stuff. I'm from the Philippines 
+I love computers, gaming and other stuff. I'm from the Philippines 🇵🇭
 
 ***
 <h3>Repositories</h3>
