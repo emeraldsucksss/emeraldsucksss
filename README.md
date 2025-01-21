@@ -1,8 +1,6 @@
-About me
-***
+# About me
 
 <h3>Introduction<h3>
-  
 ***
 <img align="left" width="100" height="100" src="https://github.com/user-attachments/assets/7265fa57-81b7-46f1-a17e-5d0153569fbc">
 
